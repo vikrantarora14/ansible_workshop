@@ -17,3 +17,4 @@ This repository contains some additional Ansible workshop labs. Links to the cor
 | **Ansible Red Hat Enterprise Linux Workshop** <br> Additonal labs for Linux platforms like Red Hat Enterprise Linux  | [Exercises](./exercises/ansible_rhel)  |
 | **Ansible Network Automation Workshop** <br> Additional labs for router and switch platforms like Arista, Cisco, Juniper | [Exercises](./exercises/ansible_network) | 
 | **Ansible Windows Automation Workshop** <br> Additional labs for Windows automation| [Exercises](./exercises/ansible_windows) | 
+testreadme
